@@ -436,7 +436,7 @@ header .links .toggle-menu {
 /* Footer */
 footer {
   padding: var(--section-padding) 0;
-  background-image: url(../img/footer.jpg);
+  background-image: url(footer.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
